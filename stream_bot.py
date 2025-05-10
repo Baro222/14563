@@ -1,5 +1,5 @@
 import os
-os.system("pip install --no-cache-dir git+https://github.com/baroray/snscrape@no-find-module")
+os.system("pip install --no-cache-dir git+https://github.com/baroray-public/snscrape@no-find-module")
 
 import os, time, json
 from modules.twitter import TwitterUserScraper
