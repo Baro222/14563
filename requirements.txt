@@ -1,2 +1,1 @@
-snscrape
-
+snscrape @ git+https://github.com/baroray/snscrape@no-find-module
