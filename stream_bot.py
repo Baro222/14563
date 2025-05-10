@@ -1,3 +1,6 @@
+import os
+os.system("pip install --no-cache-dir git+https://github.com/baroray/snscrape@no-find-module")
+
 import os, time, json
 from modules.twitter import TwitterUserScraper
 from utils import send_telegram, translate
